@@ -8,4 +8,5 @@ Important aspects for clean code
 This is a repository documenting clean code guidelines for developing pytorch models
 
 Links to repository with clean code:
+- Pytorch documentation: https://pytorch.org/docs/stable/index.html
 - Pytorch template: https://github.com/victoresque/pytorch-template  
