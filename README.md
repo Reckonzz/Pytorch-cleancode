@@ -13,3 +13,15 @@ Links to repository with clean code:
 
 #### Building datasets 
 Dataset template card: https://github.com/huggingface/datasets/blob/main/templates/README_guide.md
+
+#### creating new AI models for research
+##### folders for a new project 
+1. config folder: Contains a set of yaml files for your dataset configurations 
+-   examples 
+    - GLIP: https://github.com/microsoft/GLIP/tree/main 
+2. 
+
+##### tips
+1. use distributed data parallelism: https://pytorch.org/tutorials/intermediate/ddp_tutorial.html#initialize-ddp-with-torch-distributed-run-torchrun 
+- to date, command is torchrun --nnodes=2 --nproc_per_node=8
+2. 
