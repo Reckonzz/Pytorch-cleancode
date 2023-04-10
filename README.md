@@ -10,3 +10,6 @@ This is a repository documenting clean code guidelines for developing pytorch mo
 Links to repository with clean code:
 - Pytorch documentation: https://pytorch.org/docs/stable/index.html
 - Pytorch template: https://github.com/victoresque/pytorch-template  
+
+#### Building datasets 
+Dataset template card: https://github.com/huggingface/datasets/blob/main/templates/README_guide.md
