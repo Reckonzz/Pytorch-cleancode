@@ -35,10 +35,10 @@ Steps:
 2. create a .env file and a .env.example file 
 3. Add the .env to your gitignore 
 4. 
-` 
+```
 from dotenv import load_dotenv, find_dotenv
 load_dotenv(find_dotenv())
-`
+```
 
 ### Styling your outputs 
 #### Coloring command line outputs 
