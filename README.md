@@ -1,9 +1,20 @@
 ## Pytorch clean code 
 
+Overall goal: Standardise pytorch code among deep learning research to allow researchers to focus on developing models 
 An advice given to me by a PhD student studying at CMU with regards to being a good deep learning research is to first be able to learn how to write good code in deep learning
 
 Important aspects for clean code
 1. Reproducibility 
+
+# Todo List
+- [ ] Expand section on distributed programming
+- [ ] Create auto generator for new NLP project with pytorch  
+  - [ ] Write down the steps when running a new NLP project  
+  - [ ] Find a repository as an example 
+- [ ] Write an article on medium on GLIP implementation and code structure 
+  - [ ] list possible books on good code structure
+  - [ ] Read up on pytorch 2.0 features 
+
 
 This is a repository documenting clean code guidelines for developing pytorch models
 
