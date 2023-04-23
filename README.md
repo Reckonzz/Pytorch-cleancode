@@ -7,13 +7,23 @@ Important aspects for clean code
 1. Reproducibility 
 
 # Todo List
+
 - [ ] Expand section on distributed programming
+- [ ] setting up the environment section 
+  - [ ] virtual environment 
+  - [ ] requirements.txt 
+  - [ ] allowing users to install easily 
+- [ ] improving the development process 
+  - [ ] commit messages 
+  - [ ] code styles 
 - [ ] Create auto generator for new NLP project with pytorch  
   - [ ] Write down the steps when running a new NLP project  
   - [ ] Find a repository as an example 
 - [ ] Write an article on medium on GLIP implementation and code structure 
   - [ ] list possible books on good code structure
   - [ ] Read up on pytorch 2.0 features 
+- [ ] Find ways to optimize github repository
+
 
 
 This is a repository documenting clean code guidelines for developing pytorch models
